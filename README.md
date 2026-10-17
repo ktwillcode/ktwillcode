@@ -1,6 +1,6 @@
 ### Hi there 👋
 KT this side
-- 🔭 I’m currently working on AI Agents and their eval @Pavo
+- 🔭 I’m currently working on GTM, AI Agents and their eval @Pavo
 - 🌱 I’m currently learning so many things in AI.
 - ❤️ Love to host tournaments for Agents reasoning.
 - 👯 I’m looking to collaborate on LLMs, Agents, and other GenAI stuff.
